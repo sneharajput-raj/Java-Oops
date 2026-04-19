@@ -1,3 +1,4 @@
+
 public class HierarchialInheri {
     public static void main(String[] args) {
         vehicle v = new vehicle();
